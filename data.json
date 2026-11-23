@@ -1,0 +1,276 @@
+{
+  "profile": {
+    "name": "Haikal Wiranata",
+    "nickname": "Nata",
+    "role": "Penulis dan praktisi komunikasi",
+    "location": "Pamekasan / Surabaya, Indonesia",
+    "site": "https://inataaa.github.io",
+    "contacts": [
+      {
+        "label": "Email",
+        "value": "nata.haikal@gmail.com",
+        "href": "mailto:nata.haikal@gmail.com"
+      },
+      {
+        "label": "WhatsApp",
+        "href": "https://wa.me/6281248907250"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/hwiranata_"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/haikal-wiranata-98744321b"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "kbbi",
+      "title": "Penyuntingan entri KBBI",
+      "context": "Universitas Airlangga · 2024",
+      "sentences": [
+        "Penyusunan Kamus Besar Bahasa Indonesia (KBBI) mencakup pengerjaan entri untuk bentuk turunan kata.",
+        "Proyek ini berlangsung lima bulan dan saya ikut sebagai salah satu perwakilan Universitas Airlangga.",
+        "Saya menjalankan dua peran dalam tim penyusunan kamus.",
+        "Sebagai kontributor, saya menyumbangkan entri untuk kamus.",
+        "Sebagai penyunting, saya ikut menyunting materi kebahasaan dalam proyek yang sama.",
+        "Saya menyumbangkan sekitar 50 entri, terutama kata turunan."
+      ],
+      "pullQuoteSentence": 5
+    },
+    {
+      "id": "community-hero",
+      "title": "Turnamen Community Hero",
+      "context": "Komunitas Mobile Legends · Madura",
+      "sentences": [
+        "Community Hero menyelenggarakan turnamen Mobile Legends untuk komunitas esports di Madura.",
+        "Kegiatan ini mencakup turnamen daring dan luring di tingkat regional.",
+        "Saya memimpin perencanaan dan pelaksanaan turnamen.",
+        "Saya mengurus kerja sama sponsorship, perizinan acara, dan laporan administrasi.",
+        "Saya juga membuat poster dan video promosi untuk menjangkau peserta dan penonton.",
+        "Community Hero mengadakan lebih dari 50 kegiatan daring dan satu kegiatan luring di Madura."
+      ]
+    },
+    {
+      "id": "colourise",
+      "title": "Kegiatan melukis bersama Colourise",
+      "context": "Pengabdian masyarakat · Surabaya",
+      "sentences": [
+        "Anak-anak di Yayasan Peduli Kanker Anak Indonesia (YPKAI) Surabaya menghadapi keterbatasan aktivitas fisik dan jeda bersekolah.",
+        "Colourise menawarkan kegiatan melukis sebagai pilihan bagi anak-anak untuk mengisi waktu luang tanpa bergantung pada gawai.",
+        "Saya menangani pemasaran dan membuat poster, video, serta konten edukasi.",
+        "Saya bekerja dengan relawan dan mitra untuk mendukung penggalangan dana dan kegiatan sosial.",
+        "Colourise masuk 165 besar nasional Innovillage."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Marketing Communication & Host Live",
+      "place": "In House Interior Decoration",
+      "period": "Agu – Sep 2026",
+      "tasks": [
+        "Menyusun strategi konten dan menulis copy untuk pemasaran produk interior.",
+        "Membuat konten digital dan membawakan siaran langsung."
+      ]
+    },
+    {
+      "title": "Administrasi dan media sosial",
+      "place": "ATK Store Unair",
+      "period": "Mar – Jun 2026",
+      "tasks": [
+        "Membuat konten dan mengelola media sosial toko.",
+        "Memperbarui stok dan harga jual, mencatat transaksi, serta menyusun laporan penjualan."
+      ]
+    },
+    {
+      "title": "External Relations",
+      "place": "PT Kaltim Prima Coal · Sangatta",
+      "period": "Jul – Okt 2025",
+      "tasks": [
+        "Menulis berita resmi dan materi komunikasi perusahaan.",
+        "Berkomunikasi dengan instansi pemerintah, media, dan warga serta mendukung program CSR dan pelaporan publik."
+      ]
+    },
+    {
+      "title": "Asisten perpustakaan",
+      "place": "Dinas Perpustakaan dan Kearsipan Kota Surabaya",
+      "period": "Jul – Okt 2024",
+      "tasks": [
+        "Memperbarui data koleksi dan membantu pengunjung mengakses layanan peminjaman.",
+        "Membuat konten promosi dan profil perpustakaan."
+      ]
+    },
+    {
+      "title": "Pemimpin komunitas",
+      "place": "Community Hero · Pamekasan",
+      "period": "Des 2020 – sekarang",
+      "tasks": [
+        "Memimpin turnamen Mobile Legends serta mengurus sponsorship, promosi, dan perizinan."
+      ]
+    },
+    {
+      "title": "Penulis novel digital",
+      "tasks": [
+        "Menulis novel yang terbit dengan nama pena."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Universitas Airlangga",
+      "place": "S1 Bahasa dan Sastra Indonesia",
+      "period": "Agu 2022 – Sep 2026",
+      "detail": "IPK 3.68 / 4.00 · Cumlaude"
+    },
+    {
+      "title": "SMAN 1 Pamekasan",
+      "place": "Peminatan IPA",
+      "detail": "Rata-rata 91"
+    }
+  ],
+  "organizations": [
+    {
+      "title": "Wakil menteri hubungan luar",
+      "place": "BEM Fakultas Ilmu Budaya · Universitas Airlangga",
+      "period": "Mar – Des 2024",
+      "tasks": [
+        "Mengoordinasikan kerja sama eksternal serta memantau pelaksanaan program."
+      ]
+    },
+    {
+      "title": "Kepala divisi acara",
+      "place": "UKM Esport Universitas Airlangga",
+      "period": "Mar – Des 2024",
+      "tasks": [
+        "Mengoordinasikan jadwal, anggaran, proposal, dan evaluasi acara."
+      ]
+    },
+    {
+      "title": "Liaison Officer dan operator",
+      "place": "PKKA · Universitas Airlangga",
+      "period": "Mar 2024",
+      "tasks": [
+        "Menghubungkan perusahaan peserta dengan panitia dan membantu operasional rekrutmen di Kinobi."
+      ]
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "place": "Colourise · Universitas Airlangga",
+      "period": "Mei 2023 – sekarang",
+      "tasks": [
+        "Menangani pemasaran, materi promosi, dan komunikasi dengan relawan serta mitra penggalangan dana."
+      ]
+    }
+  ],
+  "otherWork": [
+    {
+      "title": "Kontributor penelitian analisis sintaksis",
+      "period": "2024",
+      "detail": "Memilah dan menganalisis kata berdasarkan fungsi sintaksis untuk penelitian disertasi."
+    },
+    {
+      "title": "Project Leader Humanivisit",
+      "place": "TVRI Jawa Timur",
+      "period": "2024"
+    },
+    {
+      "title": "Panitia acara dan kreatif",
+      "place": "Amerta · Orientasi Universitas Airlangga",
+      "period": "2023"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Juara 1, medali emas",
+      "place": "Esai Nasional Competition · Universitas Gorontalo",
+      "period": "2023"
+    },
+    {
+      "title": "Juara 3, medali perunggu",
+      "place": "Esai National Competition · IDEA FEST, Lombok",
+      "period": "2024"
+    },
+    {
+      "title": "Awardee pengabdian masyarakat",
+      "place": "5th Innovillage Telkom",
+      "period": "2024"
+    },
+    {
+      "title": "Juara 3, medali perunggu",
+      "place": "Millenial Music Fest",
+      "period": "2024"
+    },
+    {
+      "title": "Finalis karya tulis ilmiah",
+      "place": "NEIRA Competition",
+      "period": "2024"
+    },
+    {
+      "title": "Peserta Demo Day",
+      "place": "PFmuda · Pertamina Foundation",
+      "period": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Digital Marketing Berbasis Kecerdasan Buatan",
+      "issuer": "LSP Digital Marketing Indonesia (BNSP)",
+      "field": "Periklanan",
+      "number": "73100 2431 3 0013913 2025",
+      "registration": "M.2139.02436 2025",
+      "date": "Jakarta, 16 Juni 2025",
+      "validity": "3 tahun"
+    },
+    {
+      "title": "Pengajaran Bahasa dan Sastra",
+      "issuer": "LSP Universitas Airlangga",
+      "field": "Bahasa dan Sastra Indonesia",
+      "number": "00000 2120 6 0000255 2026",
+      "registration": "K 346 00255 2026",
+      "date": "Surabaya, 5 Mei 2026",
+      "validity": "4 tahun"
+    },
+    {
+      "title": "Praktisi Bahasa",
+      "issuer": "LSP Universitas Airlangga",
+      "field": "Bahasa dan Sastra Indonesia",
+      "number": "74901 0000 00344 2026",
+      "registration": "K 346 00344 2026",
+      "date": "Surabaya, 19 Mei 2026",
+      "validity": "4 tahun"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Menulis",
+      "items": [
+        "penulisan kreatif",
+        "penyuntingan naskah",
+        "penulisan berita",
+        "copywriting",
+        "riset kepustakaan"
+      ]
+    },
+    {
+      "title": "Komunikasi",
+      "items": [
+        "hubungan media",
+        "komunikasi eksternal",
+        "public speaking",
+        "membawa acara"
+      ]
+    },
+    {
+      "title": "Operasional",
+      "items": [
+        "manajemen acara",
+        "kerja sama sponsorship",
+        "pengelolaan media sosial",
+        "pengelolaan data koleksi"
+      ]
+    }
+  ]
+}
