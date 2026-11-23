@@ -1,7 +1,6 @@
 import data from '../../data.json';
 import { Certificate, Contacts, Section, Skill } from '../entries';
 import PrintButton from './print-button';
-import { portfolioSections } from '../portfolio-sections';
 import SiteHeader from '../site-header';
 
 export const metadata = { title: 'CV', alternates: { canonical: '/cv.html' } };
@@ -45,10 +44,10 @@ export default function Cv() {
   // <!-- TODO: nama pena + tautan profil Dreamy, jika ingin ditampilkan -->
   return (
     <div className="cv">
-      <SiteHeader profile={profile} sections={portfolioSections} current="cv" />
+      <SiteHeader profile={profile} current="cv" />
       <div className="frame">
         <div className="cv-toolbar">
-          <a href="./">Kembali ke portofolio</a>
+          <a href="/">Kembali ke portofolio</a>
           <PrintButton />
         </div>
         <main id="isi" tabIndex="-1">

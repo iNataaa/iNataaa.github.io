@@ -17,3 +17,7 @@ Buka `http://localhost:8018/` untuk beranda atau `http://localhost:8018/cv.html`
 ## Publikasi GitHub Pages
 
 Build menghasilkan berkas statis di `out/`, termasuk `index.html`, `cv.html`, `_next/`, dan `.nojekyll`. Publikasikan isi `out/` di akar cabang dan folder yang digunakan GitHub Pages. Sertakan berkas tersembunyi `.nojekyll` agar aset dalam `_next/` ikut terbit.
+
+## Kredit desain
+
+Palet terang, skala tipografi, dan pola tata letak diadaptasi dari [Michael D’Angelo’s Personal Site](https://github.com/mldangelo/personal-site/tree/2509217061abe5a8679fcdfc19d8a99bb75f4adf). Lisensi MIT tersedia di `public/design-license.txt`. Inter, Newsreader, dan JetBrains Mono disertakan dengan lisensi masing-masing di `public/fonts/`.
